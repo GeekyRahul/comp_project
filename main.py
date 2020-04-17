@@ -3,8 +3,8 @@ import mysql.connector as connector
 def connection():
 
     config = {
-        "user": "UdI8EZnZLb",
-        "password": "oReyIxFRD6",
+        "user": "<user>",
+        "password": "<password>",
         "host": "remotemysql.com",
         "port": 3306,
         "database": "UdI8EZnZLb"
