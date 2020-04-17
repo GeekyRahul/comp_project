@@ -1,5 +1,10 @@
 # comp_project
 This Repository Contains the Project of Our Team.
+Our Team Members:
+Rahul
+Aaiysha
+Gokul
+
 This is to share our progress and work together.
 
 The main code is found inside main.py
